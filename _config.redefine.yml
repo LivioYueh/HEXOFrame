@@ -313,7 +313,7 @@ footer:
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2023/4/18 12:45:14
   # Footer message
-  customize: Website Vision V0.45 # ICP record number. See https://beian.miit.gov.cn/
+  customize: Website Vision V0.50 # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable
     number: # ICP record number
